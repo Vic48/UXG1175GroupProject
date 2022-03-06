@@ -1,0 +1,17 @@
+refId,name,assetName,assetType
+101,Rabbit,rabbit,SHAPE
+102,Cat,cat,SHAPE
+103,Crown,crown,SHAPE
+104,Bear,bear,SHAPE
+201,Teardrop,teardrop,EYES
+202,Rectangle,rect,EYES
+203,Hexagon,hexagon,EYES
+204,Almond,diamond,EYES
+301,Triangle,triangle,NOSE
+302,Diamond,diamond,NOSE
+303,Circle,circle,NOSE
+304,Oval,capsule,NOSE
+401,Wiggly,wiggle,MOUTH
+402,V,v,MOUTH
+403,W,three,MOUTH
+404,Pointy,point,MOUTH

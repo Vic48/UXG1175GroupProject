@@ -1,0 +1,124 @@
+{
+"RefCharacter":
+[
+ {
+   "refId": 1,
+   "name": "Bianca",
+   "colour": "FFFFFF"
+ },
+ {
+   "refId": 2,
+   "name": "Qing",
+   "colour": "C0FF80"
+ },
+ {
+   "refId": 3,
+   "name": "Seki",
+   "colour": "FF8080"
+ },
+ {
+   "refId": 4,
+   "name": "Azure",
+   "colour": "8080FF"
+ }
+],
+"RefFacePart":
+[
+ {
+   "refId": 101,
+   "name": "Rabbit",
+   "assetName": "rabbit",
+   "assetType": "SHAPE"
+ },
+ {
+   "refId": 102,
+   "name": "Cat",
+   "assetName": "cat",
+   "assetType": "SHAPE"
+ },
+ {
+   "refId": 103,
+   "name": "Crown",
+   "assetName": "crown",
+   "assetType": "SHAPE"
+ },
+ {
+   "refId": 104,
+   "name": "Bear",
+   "assetName": "bear",
+   "assetType": "SHAPE"
+ },
+ {
+   "refId": 201,
+   "name": "Teardrop",
+   "assetName": "teardrop",
+   "assetType": "EYES"
+ },
+ {
+   "refId": 202,
+   "name": "Rectangle",
+   "assetName": "rect",
+   "assetType": "EYES"
+ },
+ {
+   "refId": 203,
+   "name": "Hexagon",
+   "assetName": "hexagon",
+   "assetType": "EYES"
+ },
+ {
+   "refId": 204,
+   "name": "Almond",
+   "assetName": "diamond",
+   "assetType": "EYES"
+ },
+ {
+   "refId": 301,
+   "name": "Triangle",
+   "assetName": "triangle",
+   "assetType": "NOSE"
+ },
+ {
+   "refId": 302,
+   "name": "Diamond",
+   "assetName": "diamond",
+   "assetType": "NOSE"
+ },
+ {
+   "refId": 303,
+   "name": "Circle",
+   "assetName": "circle",
+   "assetType": "NOSE"
+ },
+ {
+   "refId": 304,
+   "name": "Oval",
+   "assetName": "capsule",
+   "assetType": "NOSE"
+ },
+ {
+   "refId": 401,
+   "name": "Wiggly",
+   "assetName": "wiggle",
+   "assetType": "MOUTH"
+ },
+ {
+   "refId": 402,
+   "name": "V",
+   "assetName": "v",
+   "assetType": "MOUTH"
+ },
+ {
+   "refId": 403,
+   "name": "W",
+   "assetName": "three",
+   "assetType": "MOUTH"
+ },
+ {
+   "refId": 404,
+   "name": "Pointy",
+   "assetName": "point",
+   "assetType": "MOUTH"
+ }
+]
+}
